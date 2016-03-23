@@ -1,0 +1,44 @@
+.main{
+	height:360px;
+	padding:20px;
+	border: 1px solid #999;
+	background-color: #eee;
+}
+.main #teamlogo{
+	height:120px;
+	width:200px;
+	border: 1px solid #999;
+	background-color: white;
+	float:left;	
+}
+.main #plogo{
+	width:120px;
+	height:360px;
+	border: 1px solid #999;
+	background-color: white;
+	float:right;
+	padding:0 20px;
+		}
+.main #zhongjian{
+	background-color: white;
+	border: 1px solid #999;
+	height: 280px;
+	width:auto;
+	margin:0 180px 0 220px;
+}
+.main #teamlogo img{
+	height:80px;
+	right:80px;
+	padding:20px;
+	}		
+.main #teamlogo p{
+	display:inline;
+	position:absolute;
+	
+}
+.main #plogo img{
+	height:60px;
+	right:60px;
+padding:10px;
+
+}
